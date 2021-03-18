@@ -1,0 +1,378 @@
+{
+  "page": 1,
+  "pageSize": 5,
+  "maxPageSize": 100,
+  "pageCount": 1,
+  "results": [
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/3208?namespace=dynamic-us"
+      },
+      "data": {
+        "is_tournament": false,
+        "timezone": "America/Sao_Paulo",
+        "name": {
+          "it_IT": "Nemesis",
+          "ru_RU": "Nemesis",
+          "en_GB": "Nemesis",
+          "zh_TW": "涅密希斯",
+          "ko_KR": "Nemesis",
+          "en_US": "Nemesis",
+          "es_MX": "Némesis",
+          "pt_BR": "Nemesis",
+          "es_ES": "Némesis",
+          "zh_CN": "涅墨西斯",
+          "fr_FR": "Nemesis",
+          "de_DE": "Nemesis"
+        },
+        "id": 3208,
+        "region": {
+          "name": {
+            "it_IT": "Nord America",
+            "ru_RU": "Северная Америка",
+            "en_GB": "North America",
+            "zh_TW": "北美",
+            "ko_KR": "미국",
+            "en_US": "North America",
+            "es_MX": "Norteamérica",
+            "pt_BR": "América do Norte",
+            "es_ES": "Norteamérica",
+            "zh_CN": "北美",
+            "fr_FR": "Amérique du Nord",
+            "de_DE": "Nordamerika"
+          },
+          "id": 1
+        },
+        "category": {
+          "it_IT": "Brasile",
+          "ru_RU": "Бразилия",
+          "en_GB": "Brazil",
+          "zh_TW": "巴西",
+          "ko_KR": "브라질",
+          "en_US": "Brazil",
+          "es_MX": "Brasil",
+          "pt_BR": "Brasil",
+          "es_ES": "Brasil",
+          "zh_CN": "巴西",
+          "fr_FR": "Brésil",
+          "de_DE": "Brasilien"
+        },
+        "locale": "ptBR",
+        "type": {
+          "name": {
+            "it_IT": "Normale",
+            "ru_RU": "Обычный",
+            "en_GB": "Normal",
+            "zh_TW": "一般",
+            "ko_KR": "일반",
+            "en_US": "Normal",
+            "es_MX": "Normal",
+            "pt_BR": "Normal",
+            "es_ES": "Normal",
+            "zh_CN": "普通",
+            "fr_FR": "Normal",
+            "de_DE": "Normal"
+          },
+          "type": "NORMAL"
+        },
+        "slug": "nemesis"
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/3210?namespace=dynamic-us"
+      },
+      "data": {
+        "is_tournament": false,
+        "timezone": "America/Sao_Paulo",
+        "name": {
+          "it_IT": "Tol Barad",
+          "ru_RU": "Tol Barad",
+          "en_GB": "Tol Barad",
+          "zh_TW": "托巴拉德",
+          "ko_KR": "Tol Barad",
+          "en_US": "Tol Barad",
+          "es_MX": "Tol Barad",
+          "pt_BR": "Tol Barad",
+          "es_ES": "Tol Barad",
+          "zh_CN": "托尔巴拉德",
+          "fr_FR": "Tol Barad",
+          "de_DE": "Tol Barad"
+        },
+        "id": 3210,
+        "region": {
+          "name": {
+            "it_IT": "Nord America",
+            "ru_RU": "Северная Америка",
+            "en_GB": "North America",
+            "zh_TW": "北美",
+            "ko_KR": "미국",
+            "en_US": "North America",
+            "es_MX": "Norteamérica",
+            "pt_BR": "América do Norte",
+            "es_ES": "Norteamérica",
+            "zh_CN": "北美",
+            "fr_FR": "Amérique du Nord",
+            "de_DE": "Nordamerika"
+          },
+          "id": 1
+        },
+        "category": {
+          "it_IT": "Brasile",
+          "ru_RU": "Бразилия",
+          "en_GB": "Brazil",
+          "zh_TW": "巴西",
+          "ko_KR": "브라질",
+          "en_US": "Brazil",
+          "es_MX": "Brasil",
+          "pt_BR": "Brasil",
+          "es_ES": "Brasil",
+          "zh_CN": "巴西",
+          "fr_FR": "Brésil",
+          "de_DE": "Brasilien"
+        },
+        "locale": "ptBR",
+        "type": {
+          "name": {
+            "it_IT": "Normale",
+            "ru_RU": "Обычный",
+            "en_GB": "Normal",
+            "zh_TW": "一般",
+            "ko_KR": "일반",
+            "en_US": "Normal",
+            "es_MX": "Normal",
+            "pt_BR": "Normal",
+            "es_ES": "Normal",
+            "zh_CN": "普通",
+            "fr_FR": "Normal",
+            "de_DE": "Normal"
+          },
+          "type": "NORMAL"
+        },
+        "slug": "tol-barad"
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/3234?namespace=dynamic-us"
+      },
+      "data": {
+        "is_tournament": false,
+        "timezone": "America/Sao_Paulo",
+        "name": {
+          "it_IT": "Gallywix",
+          "ru_RU": "Gallywix",
+          "en_GB": "Gallywix",
+          "zh_TW": "加里維克斯",
+          "ko_KR": "Gallywix",
+          "en_US": "Gallywix",
+          "es_MX": "Gallywix",
+          "pt_BR": "Gallywix",
+          "es_ES": "Gallywix",
+          "zh_CN": "加里维克斯",
+          "fr_FR": "Gallywix",
+          "de_DE": "Gallywix"
+        },
+        "id": 3234,
+        "region": {
+          "name": {
+            "it_IT": "Nord America",
+            "ru_RU": "Северная Америка",
+            "en_GB": "North America",
+            "zh_TW": "北美",
+            "ko_KR": "미국",
+            "en_US": "North America",
+            "es_MX": "Norteamérica",
+            "pt_BR": "América do Norte",
+            "es_ES": "Norteamérica",
+            "zh_CN": "北美",
+            "fr_FR": "Amérique du Nord",
+            "de_DE": "Nordamerika"
+          },
+          "id": 1
+        },
+        "category": {
+          "it_IT": "Brasile",
+          "ru_RU": "Бразилия",
+          "en_GB": "Brazil",
+          "zh_TW": "巴西",
+          "ko_KR": "브라질",
+          "en_US": "Brazil",
+          "es_MX": "Brasil",
+          "pt_BR": "Brasil",
+          "es_ES": "Brasil",
+          "zh_CN": "巴西",
+          "fr_FR": "Brésil",
+          "de_DE": "Brasilien"
+        },
+        "locale": "ptBR",
+        "type": {
+          "name": {
+            "it_IT": "Normale",
+            "ru_RU": "Обычный",
+            "en_GB": "Normal",
+            "zh_TW": "一般",
+            "ko_KR": "일반",
+            "en_US": "Normal",
+            "es_MX": "Normal",
+            "pt_BR": "Normal",
+            "es_ES": "Normal",
+            "zh_CN": "普通",
+            "fr_FR": "Normal",
+            "de_DE": "Normal"
+          },
+          "type": "NORMAL"
+        },
+        "slug": "gallywix"
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/3207?namespace=dynamic-us"
+      },
+      "data": {
+        "is_tournament": false,
+        "timezone": "America/Sao_Paulo",
+        "name": {
+          "it_IT": "Goldrinn",
+          "ru_RU": "Goldrinn",
+          "en_GB": "Goldrinn",
+          "zh_TW": "戈德林",
+          "ko_KR": "Goldrinn",
+          "en_US": "Goldrinn",
+          "es_MX": "Goldrinn",
+          "pt_BR": "Goldrinn",
+          "es_ES": "Goldrinn",
+          "zh_CN": "戈德林",
+          "fr_FR": "Goldrinn",
+          "de_DE": "Goldrinn"
+        },
+        "id": 3207,
+        "region": {
+          "name": {
+            "it_IT": "Nord America",
+            "ru_RU": "Северная Америка",
+            "en_GB": "North America",
+            "zh_TW": "北美",
+            "ko_KR": "미국",
+            "en_US": "North America",
+            "es_MX": "Norteamérica",
+            "pt_BR": "América do Norte",
+            "es_ES": "Norteamérica",
+            "zh_CN": "北美",
+            "fr_FR": "Amérique du Nord",
+            "de_DE": "Nordamerika"
+          },
+          "id": 1
+        },
+        "category": {
+          "it_IT": "Brasile",
+          "ru_RU": "Бразилия",
+          "en_GB": "Brazil",
+          "zh_TW": "巴西",
+          "ko_KR": "브라질",
+          "en_US": "Brazil",
+          "es_MX": "Brasil",
+          "pt_BR": "Brasil",
+          "es_ES": "Brasil",
+          "zh_CN": "巴西",
+          "fr_FR": "Brésil",
+          "de_DE": "Brasilien"
+        },
+        "locale": "ptBR",
+        "type": {
+          "name": {
+            "it_IT": "Normale",
+            "ru_RU": "Обычный",
+            "en_GB": "Normal",
+            "zh_TW": "一般",
+            "ko_KR": "일반",
+            "en_US": "Normal",
+            "es_MX": "Normal",
+            "pt_BR": "Normal",
+            "es_ES": "Normal",
+            "zh_CN": "普通",
+            "fr_FR": "Normal",
+            "de_DE": "Normal"
+          },
+          "type": "NORMAL"
+        },
+        "slug": "goldrinn"
+      }
+    },
+    {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/realm/3209?namespace=dynamic-us"
+      },
+      "data": {
+        "is_tournament": false,
+        "timezone": "America/Sao_Paulo",
+        "name": {
+          "it_IT": "Azralon",
+          "ru_RU": "Azralon",
+          "en_GB": "Azralon",
+          "zh_TW": "Azralon",
+          "ko_KR": "Azralon",
+          "en_US": "Azralon",
+          "es_MX": "Azralon",
+          "pt_BR": "Azralon",
+          "es_ES": "Azralon",
+          "zh_CN": "阿兹拉隆",
+          "fr_FR": "Azralon",
+          "de_DE": "Azralon"
+        },
+        "id": 3209,
+        "region": {
+          "name": {
+            "it_IT": "Nord America",
+            "ru_RU": "Северная Америка",
+            "en_GB": "North America",
+            "zh_TW": "北美",
+            "ko_KR": "미국",
+            "en_US": "North America",
+            "es_MX": "Norteamérica",
+            "pt_BR": "América do Norte",
+            "es_ES": "Norteamérica",
+            "zh_CN": "北美",
+            "fr_FR": "Amérique du Nord",
+            "de_DE": "Nordamerika"
+          },
+          "id": 1
+        },
+        "category": {
+          "it_IT": "Brasile",
+          "ru_RU": "Бразилия",
+          "en_GB": "Brazil",
+          "zh_TW": "巴西",
+          "ko_KR": "브라질",
+          "en_US": "Brazil",
+          "es_MX": "Brasil",
+          "pt_BR": "Brasil",
+          "es_ES": "Brasil",
+          "zh_CN": "巴西",
+          "fr_FR": "Brésil",
+          "de_DE": "Brasilien"
+        },
+        "locale": "ptBR",
+        "type": {
+          "name": {
+            "it_IT": "Normale",
+            "ru_RU": "Обычный",
+            "en_GB": "Normal",
+            "zh_TW": "一般",
+            "ko_KR": "일반",
+            "en_US": "Normal",
+            "es_MX": "Normal",
+            "pt_BR": "Normal",
+            "es_ES": "Normal",
+            "zh_CN": "普通",
+            "fr_FR": "Normal",
+            "de_DE": "Normal"
+          },
+          "type": "NORMAL"
+        },
+        "slug": "azralon"
+      }
+    }
+  ]
+}
